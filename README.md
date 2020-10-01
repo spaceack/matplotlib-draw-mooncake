@@ -30,17 +30,31 @@
 
 - basic moon cake
 
-![style1.png](images/style1.png) 
+    ![style1.png](images/style1.png) 
+
 - magic moon cake
-![style2.png](images/style2.png)
+
+    ![style2.png](images/style2.png)
+    
 - flower moon cake
-![style3.png](images/style3.png)
+
+    ![style3.png](images/style3.png)
+    
 - sun moon cake
-![style4.png](images/style4.png)
+
+    ![style4.png](images/style4.png)
+    
 - sunflower moon cake
-![style5.png](images/style5.png)
+
+    ![style5.png](images/style5.png)
+    
 - crescent moon cake
-![style6.png](images/style6.png)
+
+    ![style6.png](images/style6.png)
+    
 - velvet moon cake
-![style7.png](images/style7.png)
+
+    ![style7.png](images/style7.png)
+    
 ![style0.png](images/style0.png)
+
